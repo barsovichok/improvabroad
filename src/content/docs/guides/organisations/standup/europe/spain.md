@@ -7,5 +7,5 @@ sidebar:
 
 ### Bread stand-up Barcelona
 
-- Instagram: https://www.instagram.com/thecomedyclubhousebcn/
+- Instagram: https://www.instagram.com/standup.barcelona
 
